@@ -103,7 +103,7 @@
 
 <div align="center">
   <!-- Racha de contribuciones verificada y funcionando -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanPabloG16&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanPabloG16&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Streak"/>
 </div>
 
 <br/>
